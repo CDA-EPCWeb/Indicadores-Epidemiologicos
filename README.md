@@ -1,4 +1,4 @@
-# Tratamento de dados
+# Base de dados de Indicadores Epidemiológicos
 
 ## Resumo
 O arquivo de tratamento de dados foi feito utilizando o Jupyter Notebook para o Python 3.8.2 64-bit e a biblioteca Pandas. Os dados tratados foram dois arquivos, o caso_full e pop2020, ambos salvos em csv. O primeiro arquivo é um banco de dados, do site “https://brasil.io/”, contendo os dados relativos aos casos e às mortes relacionados à COVID-19, separados por cidades e estados brasileiros. O segundo arquivo, pop2020, informa a população atual de todas as cidades brasileiras e foi cedido pela professora ………….
